@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Test started and running: verifyAddToCart]]>
+    </line>
+    <line>
+      <![CDATA[Test is success: verifyAddToCart]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/trupti/Documents/workspace/uiAutomation/src/main/java/com/test/automation/uiAutomation/success_screenshots/verifyAddToCart_21_07_2017_11_56_51.png'> <img src='/Users/trupti/Documents/workspace/uiAutomation/src/main/java/com/test/automation/uiAutomation/success_screenshots/verifyAddToCart_21_07_2017_11_56_51.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Sanity Suite" duration-ms="14152" started-at="2017-07-22T03:56:37Z" finished-at="2017-07-22T03:56:52Z">
+    <groups>
+    </groups>
+    <test name="TC002" duration-ms="14152" started-at="2017-07-22T03:56:37Z" finished-at="2017-07-22T03:56:52Z">
+      <class name="com.test.automation.uiAutomation.addToCart.TC001_VerifyAddToCart">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.automation.uiAutomation.addToCart.TC001_VerifyAddToCart@7946e1f4]" name="setUp" is-config="true" duration-ms="7569" started-at="2017-07-21T23:56:37Z" finished-at="2017-07-21T23:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAddToCart()[pri:0, instance:com.test.automation.uiAutomation.addToCart.TC001_VerifyAddToCart@7946e1f4]" name="verifyAddToCart" duration-ms="5495" started-at="2017-07-21T23:56:45Z" finished-at="2017-07-21T23:56:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started and running: verifyAddToCart]]>
+            </line>
+            <line>
+              <![CDATA[Test is success: verifyAddToCart]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/trupti/Documents/workspace/uiAutomation/src/main/java/com/test/automation/uiAutomation/success_screenshots/verifyAddToCart_21_07_2017_11_56_51.png'> <img src='/Users/trupti/Documents/workspace/uiAutomation/src/main/java/com/test/automation/uiAutomation/success_screenshots/verifyAddToCart_21_07_2017_11_56_51.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCart -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.test.automation.uiAutomation.addToCart.TC001_VerifyAddToCart@7946e1f4]" name="end" is-config="true" duration-ms="528" started-at="2017-07-21T23:56:51Z" finished-at="2017-07-21T23:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.test.automation.uiAutomation.addToCart.TC001_VerifyAddToCart -->
+    </test> <!-- TC002 -->
+  </suite> <!-- Sanity Suite -->
+</testng-results>
