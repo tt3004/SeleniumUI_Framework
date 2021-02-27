@@ -1,0 +1,368 @@
+====== Starting verifyLoginWithInvalidCredentials Test ======
+clicked on sign in and object is :- [[FirefoxDriver: firefox on ANY (a35ceae0-3553-6c45-acd6-d56d8c9053dd)] -> class name: login]
+entered email address is :- test@gmail.com and object is :-[[FirefoxDriver: firefox on ANY (a35ceae0-3553-6c45-acd6-d56d8c9053dd)] -> id: email]
+entered password is :- password and object is :- [[FirefoxDriver: firefox on ANY (a35ceae0-3553-6c45-acd6-d56d8c9053dd)] -> id: passwd]
+clicked on submit button and object is :-[[FirefoxDriver: firefox on ANY (a35ceae0-3553-6c45-acd6-d56d8c9053dd)] -> css selector: #SubmitLogin]
+error message is :- Authentication failed.
+====== Finished verifyLoginWithInvalidCredentials Test ======
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[FirefoxDriver: firefox on ANY (dc0a7ac3-1ddb-194c-bdce-76518ddc923a)] -> class name: login]
+providing signup email and object is:- [[FirefoxDriver: firefox on ANY (dc0a7ac3-1ddb-194c-bdce-76518ddc923a)] -> css selector: #email_create]
+clicking on create account button and object is:- [[FirefoxDriver: firefox on ANY (dc0a7ac3-1ddb-194c-bdce-76518ddc923a)] -> id: SubmitCreate]
+selecting the Mr. title and object is:- [[FirefoxDriver: firefox on ANY (dc0a7ac3-1ddb-194c-bdce-76518ddc923a)] -> css selector: #id_gender1]
+providing first name and object is:- [[FirefoxDriver: firefox on ANY (dc0a7ac3-1ddb-194c-bdce-76518ddc923a)] -> id: customer_firstname]
+providing last name and object is:- [[FirefoxDriver: firefox on ANY (dc0a7ac3-1ddb-194c-bdce-76518ddc923a)] -> id: customer_lastname]
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[FirefoxDriver: firefox on ANY (8017d8fa-18ba-2749-aa3a-793c18a29428)] -> class name: login]
+providing signup email and object is:- [[FirefoxDriver: firefox on ANY (8017d8fa-18ba-2749-aa3a-793c18a29428)] -> css selector: #email_create]
+clicking on create account button and object is:- [[FirefoxDriver: firefox on ANY (8017d8fa-18ba-2749-aa3a-793c18a29428)] -> id: SubmitCreate]
+selecting the Mr. title and object is:- [[FirefoxDriver: firefox on ANY (8017d8fa-18ba-2749-aa3a-793c18a29428)] -> css selector: #id_gender1]
+providing first name and object is:- [[FirefoxDriver: firefox on ANY (8017d8fa-18ba-2749-aa3a-793c18a29428)] -> id: customer_firstname]
+providing last name and object is:- [[FirefoxDriver: firefox on ANY (8017d8fa-18ba-2749-aa3a-793c18a29428)] -> id: customer_lastname]
+providing the password and object is:- [[FirefoxDriver: firefox on ANY (8017d8fa-18ba-2749-aa3a-793c18a29428)] -> css selector: #passwd]
+selecting the days of dob and object is:- [[FirefoxDriver: firefox on ANY (8017d8fa-18ba-2749-aa3a-793c18a29428)] -> id: days]
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[FirefoxDriver: firefox on ANY (b3f62626-0647-ef47-a9ff-58703e269a71)] -> class name: login]
+providing signup email and object is:- [[FirefoxDriver: firefox on ANY (b3f62626-0647-ef47-a9ff-58703e269a71)] -> css selector: #email_create]
+clicking on create account button and object is:- [[FirefoxDriver: firefox on ANY (b3f62626-0647-ef47-a9ff-58703e269a71)] -> id: SubmitCreate]
+selecting the Mr. title and object is:- [[FirefoxDriver: firefox on ANY (b3f62626-0647-ef47-a9ff-58703e269a71)] -> css selector: #id_gender1]
+providing first name and object is:- [[FirefoxDriver: firefox on ANY (b3f62626-0647-ef47-a9ff-58703e269a71)] -> id: customer_firstname]
+providing last name and object is:- [[FirefoxDriver: firefox on ANY (b3f62626-0647-ef47-a9ff-58703e269a71)] -> id: customer_lastname]
+providing the password and object is:- [[FirefoxDriver: firefox on ANY (b3f62626-0647-ef47-a9ff-58703e269a71)] -> css selector: #passwd]
+selecting the days of dob and object is:- [[FirefoxDriver: firefox on ANY (b3f62626-0647-ef47-a9ff-58703e269a71)] -> id: days]
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[FirefoxDriver: firefox on ANY (b1b62e97-a267-f84b-aa11-0eb9f572d0e8)] -> class name: login]
+providing signup email and object is:- [[FirefoxDriver: firefox on ANY (b1b62e97-a267-f84b-aa11-0eb9f572d0e8)] -> css selector: #email_create]
+clicking on create account button and object is:- [[FirefoxDriver: firefox on ANY (b1b62e97-a267-f84b-aa11-0eb9f572d0e8)] -> id: SubmitCreate]
+selecting the Mr. title and object is:- [[FirefoxDriver: firefox on ANY (b1b62e97-a267-f84b-aa11-0eb9f572d0e8)] -> css selector: #id_gender1]
+providing first name and object is:- [[FirefoxDriver: firefox on ANY (b1b62e97-a267-f84b-aa11-0eb9f572d0e8)] -> id: customer_firstname]
+providing last name and object is:- [[FirefoxDriver: firefox on ANY (b1b62e97-a267-f84b-aa11-0eb9f572d0e8)] -> id: customer_lastname]
+providing the password and object is:- [[FirefoxDriver: firefox on ANY (b1b62e97-a267-f84b-aa11-0eb9f572d0e8)] -> css selector: #passwd]
+selecting the days of dob and object is:- [[FirefoxDriver: firefox on ANY (b1b62e97-a267-f84b-aa11-0eb9f572d0e8)] -> id: days]
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[FirefoxDriver: firefox on ANY (c16400d9-14b3-dd46-abca-e62691fdb5ea)] -> class name: login]
+providing signup email and object is:- [[FirefoxDriver: firefox on ANY (c16400d9-14b3-dd46-abca-e62691fdb5ea)] -> css selector: #email_create]
+clicking on create account button and object is:- [[FirefoxDriver: firefox on ANY (c16400d9-14b3-dd46-abca-e62691fdb5ea)] -> id: SubmitCreate]
+selecting the Mr. title and object is:- [[FirefoxDriver: firefox on ANY (c16400d9-14b3-dd46-abca-e62691fdb5ea)] -> css selector: #id_gender1]
+providing first name and object is:- [[FirefoxDriver: firefox on ANY (c16400d9-14b3-dd46-abca-e62691fdb5ea)] -> id: customer_firstname]
+providing last name and object is:- [[FirefoxDriver: firefox on ANY (c16400d9-14b3-dd46-abca-e62691fdb5ea)] -> id: customer_lastname]
+providing the password and object is:- [[FirefoxDriver: firefox on ANY (c16400d9-14b3-dd46-abca-e62691fdb5ea)] -> css selector: #passwd]
+selecting the days of dob and object is:- [[FirefoxDriver: firefox on ANY (c16400d9-14b3-dd46-abca-e62691fdb5ea)] -> id: days]
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> class name: login]
+providing signup email and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> css selector: #email_create]
+clicking on create account button and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: SubmitCreate]
+selecting the Mr. title and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> css selector: #id_gender1]
+providing first name and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: customer_firstname]
+providing last name and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: customer_lastname]
+providing the password and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> css selector: #passwd]
+selecting the days of dob and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: days]
+selecting the month of dob and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: months]
+selecting the year of dob and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: years]
+providing company name and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: company]
+providing the address and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: address1]
+providing the city and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: city]
+selecting the state and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: id_state]
+providing the zip code and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: postcode]
+selecting the country and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: id_country]
+providing the mobile numbe and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: phone_mobile]
+providing the address alias and object is:- [[FirefoxDriver: firefox on ANY (a3e0a495-0471-d54d-add9-22aaf2605a49)] -> id: alias]
+clicking on register user button and object is: Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+asserting if logout is displayed after successful user registration
+====== Finished TC002_VerifyRegistration ======
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> class name: login]
+providing signup email and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> css selector: #email_create]
+clicking on create account button and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: SubmitCreate]
+selecting the Mr. title and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> css selector: #id_gender1]
+providing first name and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: customer_firstname]
+providing last name and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: customer_lastname]
+providing the password and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> css selector: #passwd]
+selecting the days of dob and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: days]
+selecting the month of dob and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: months]
+selecting the year of dob and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: years]
+providing company name and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: company]
+providing the address and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: address1]
+providing the city and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: city]
+selecting the state and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: id_state]
+providing the zip code and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: postcode]
+selecting the country and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: id_country]
+providing the mobile number and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: phone_mobile]
+providing the address alias and object is:- [[FirefoxDriver: firefox on ANY (b03d4de0-cbe3-e949-91f0-2bf00de907a4)] -> id: alias]
+clicking on register user button and object is: Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+asserting if logout is displayed after successful user registration
+====== Finished TC002_VerifyRegistration ======
+====== Starting TC001_VerifyLoginWithInvalidCredentials ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (dce7e8cb4d37684623c1296578fa67bb)] -> class name: login]
+entered email address is :- test@gmail.com and object is :-[[ChromeDriver: chrome on MAC (dce7e8cb4d37684623c1296578fa67bb)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (dce7e8cb4d37684623c1296578fa67bb)] -> id: passwd]
+clicked on submit button and object is :-[[ChromeDriver: chrome on MAC (dce7e8cb4d37684623c1296578fa67bb)] -> css selector: #SubmitLogin]
+error message is :- Authentication failed.
+====== Finished TC001_VerifyLoginWithInvalidCredentials ======
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> class name: login]
+providing signup email and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> css selector: #email_create]
+clicking on create account button and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: SubmitCreate]
+selecting the Mr. title and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> css selector: #id_gender1]
+providing first name and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: customer_firstname]
+providing last name and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: customer_lastname]
+providing the password and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> css selector: #passwd]
+selecting the days of dob and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: days]
+selecting the month of dob and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: months]
+selecting the year of dob and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: years]
+providing company name and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: company]
+providing the address and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: address1]
+providing the city and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: city]
+selecting the state and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: id_state]
+providing the zip code and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: postcode]
+selecting the country and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: id_country]
+providing the mobile number and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: phone_mobile]
+providing the address alias and object is:- [[ChromeDriver: chrome on MAC (801f728b3ce85b5e438cdbddd8892ade)] -> id: alias]
+clicking on register user button and object is: Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+asserting if logout is displayed after successful user registration
+====== Finished TC002_VerifyRegistration ======
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[ChromeDriver: chrome on MAC (e3b4d64a5a3f462670c0d8402612a09f)] -> class name: login]
+providing signup email and object is:- [[ChromeDriver: chrome on MAC (e3b4d64a5a3f462670c0d8402612a09f)] -> css selector: #email_create]
+clicking on create account button and object is:- [[ChromeDriver: chrome on MAC (e3b4d64a5a3f462670c0d8402612a09f)] -> id: SubmitCreate]
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (8bb3e702c9b92cb4a1ab5b85788600eb)] -> class name: login]
+entered email address is :- ram1@gmail.com and object is :-[[ChromeDriver: chrome on MAC (8bb3e702c9b92cb4a1ab5b85788600eb)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (8bb3e702c9b92cb4a1ab5b85788600eb)] -> id: passwd]
+clicked on submit button and object is :-Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> class name: login]
+entered email address is :- ram1@gmail.com and object is :-[[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: passwd]
+clicked on submit button and object is :-Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+logout is displayed and object is:- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> css selector: .logout]
+clicked on logout and object is:- Proxy element for: DefaultElementLocator 'By.cssSelector: .logout'
+====== Finished TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> class name: login]
+entered email address is :- ram1@gmail.com and object is :-[[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: passwd]
+clicked on submit button and object is :-Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+logout is displayed and object is:- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> css selector: .logout]
+clicked on logout and object is:- Proxy element for: DefaultElementLocator 'By.cssSelector: .logout'
+====== Finished TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> class name: login]
+entered email address is :- ram1@gmail.com and object is :-[[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: passwd]
+clicked on submit button and object is :-Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+logout is displayed and object is:- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> css selector: .logout]
+clicked on logout and object is:- Proxy element for: DefaultElementLocator 'By.cssSelector: .logout'
+====== Finished TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> class name: login]
+entered email address is :- ram1@gmail.com and object is :-[[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: passwd]
+clicked on submit button and object is :-Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+logout is displayed and object is:- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> css selector: .logout]
+clicked on logout and object is:- Proxy element for: DefaultElementLocator 'By.cssSelector: .logout'
+====== Finished TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> class name: login]
+entered email address is :- ram1@gmail.com and object is :-[[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: passwd]
+clicked on submit button and object is :-Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+logout is displayed and object is:- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> css selector: .logout]
+clicked on logout and object is:- Proxy element for: DefaultElementLocator 'By.cssSelector: .logout'
+====== Finished TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> class name: login]
+entered email address is :- ram1@gmail.com and object is :-[[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: passwd]
+clicked on submit button and object is :-Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+logout is displayed and object is:- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> css selector: .logout]
+clicked on logout and object is:- Proxy element for: DefaultElementLocator 'By.cssSelector: .logout'
+====== Finished TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> class name: login]
+entered email address is :- ram1@gmail.com and object is :-[[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> id: passwd]
+clicked on submit button and object is :-Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+logout is displayed and object is:- [[ChromeDriver: chrome on MAC (317b0b73c173536738a059aff4877ad2)] -> css selector: .logout]
+clicked on logout and object is:- Proxy element for: DefaultElementLocator 'By.cssSelector: .logout'
+====== Finished TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (e71cd1e52aa1ddc38504aba69ca4895d)] -> class name: login]
+entered email address is :- ram1@gmail.com and object is :-[[ChromeDriver: chrome on MAC (e71cd1e52aa1ddc38504aba69ca4895d)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (e71cd1e52aa1ddc38504aba69ca4895d)] -> id: passwd]
+clicked on submit button and object is :-Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+logout is displayed and object is:- [[ChromeDriver: chrome on MAC (e71cd1e52aa1ddc38504aba69ca4895d)] -> css selector: .logout]
+clicked on logout and object is:- Proxy element for: DefaultElementLocator 'By.cssSelector: .logout'
+====== Finished TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (e71cd1e52aa1ddc38504aba69ca4895d)] -> class name: login]
+entered email address is :- ram1@gmail.com and object is :-[[ChromeDriver: chrome on MAC (e71cd1e52aa1ddc38504aba69ca4895d)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (e71cd1e52aa1ddc38504aba69ca4895d)] -> id: passwd]
+clicked on submit button and object is :-Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+logout is displayed and object is:- [[ChromeDriver: chrome on MAC (e71cd1e52aa1ddc38504aba69ca4895d)] -> css selector: .logout]
+clicked on logout and object is:- Proxy element for: DefaultElementLocator 'By.cssSelector: .logout'
+====== Finished TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC003_VerifyLoginWithDifferentRecords ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (b157493ebcfc9620499aad523f94e337)] -> class name: login]
+entered email address is :- ram1@gmail.com and object is :-[[ChromeDriver: chrome on MAC (b157493ebcfc9620499aad523f94e337)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (b157493ebcfc9620499aad523f94e337)] -> id: passwd]
+clicked on submit button and object is :-Proxy element for: DefaultElementLocator 'By.cssSelector: #SubmitLogin'
+logout is displayed and object is:- [[ChromeDriver: chrome on MAC (b157493ebcfc9620499aad523f94e337)] -> css selector: .logout]
+clicked on logout and object is:- Proxy element for: DefaultElementLocator 'By.cssSelector: .logout'
+====== Finished TC003_VerifyLoginWithDifferentRecords ======
+====== Starting TC002_VerifyRegistration ======
+====== Starting TC002_VerifyRegistration ======
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> class name: login]
+providing signup email and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> css selector: #email_create]
+clicking on create account button and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: SubmitCreate]
+selecting the Mr. title and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> css selector: #id_gender1]
+providing first name and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: customer_firstname]
+providing last name and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: customer_lastname]
+providing the password and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> css selector: #passwd]
+selecting the days of dob and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: days]
+selecting the month of dob and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: months]
+selecting the year of dob and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: years]
+providing company name and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: company]
+providing the address and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: address1]
+providing the city and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: city]
+selecting the state and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: id_state]
+providing the zip code and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: postcode]
+selecting the country and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: id_country]
+providing the mobile number and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: phone_mobile]
+providing the address alias and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> id: alias]
+clicking on register user button and object is: Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+logout is displayed and object is:- [[FirefoxDriver: firefox on ANY (027b1ccf-cc70-fd47-9971-fba5324e63a7)] -> css selector: .logout]
+asserting if logout is displayed after successful user registration
+====== Finished TC002_VerifyRegistration ======
+====== Starting TC002_VerifyRegistration ======
+====== Starting TC002_VerifyRegistration ======
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> class name: login]
+providing signup email and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> css selector: #email_create]
+clicking on create account button and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: SubmitCreate]
+selecting the Mr. title and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> css selector: #id_gender1]
+providing first name and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: customer_firstname]
+providing last name and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: customer_lastname]
+providing the password and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> css selector: #passwd]
+selecting the days of dob and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: days]
+selecting the month of dob and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: months]
+selecting the year of dob and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: years]
+providing company name and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: company]
+providing the address and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: address1]
+providing the city and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: city]
+selecting the state and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: id_state]
+providing the zip code and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: postcode]
+selecting the country and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: id_country]
+providing the mobile number and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: phone_mobile]
+providing the address alias and object is:- [[FirefoxDriver: firefox on ANY (23b79d2c-3700-ee49-89b9-c27afd830c6f)] -> id: alias]
+====== Starting TC002_VerifyRegistration ======
+clicking on sign in button and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> class name: login]
+providing signup email and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> css selector: #email_create]
+clicking on create account button and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: SubmitCreate]
+selecting the Mr. title and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> css selector: #id_gender1]
+providing first name and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: customer_firstname]
+providing last name and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: customer_lastname]
+providing the password and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> css selector: #passwd]
+selecting the days of dob and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: days]
+selecting the month of dob and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: months]
+selecting the year of dob and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: years]
+providing company name and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: company]
+providing the address and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: address1]
+providing the city and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: city]
+selecting the state and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: id_state]
+providing the zip code and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: postcode]
+selecting the country and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: id_country]
+providing the mobile number and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: phone_mobile]
+providing the address alias and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> id: alias]
+clicking on register user button and object is: Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+logout is displayed and object is:- [[FirefoxDriver: firefox on ANY (71255a3d-4514-c74b-ba2c-bbe838b7273d)] -> css selector: .logout]
+asserting if logout is displayed after successful user registration
+====== Finished TC002_VerifyRegistration ======
+====== Starting TC002_VerifyRegistration ======
+====== Starting TC002_VerifyRegistration ======
+====== Starting TC001_VerifyAddToCart ======
+browser closed
+====== Starting TC001_VerifyAddToCart ======
+browser closed
+====== Starting TC001_VerifyAddToCart ======
+browser closed
+====== Starting TC001_VerifyAddToCart ======
+browser closed
+====== Starting TC001_VerifyAddToCart ======
+browser closed
+====== Starting TC001_VerifyAddToCart ======
+clicked on:- Women navigation menu.
+clicked on:- Dresses category submenu.
+browser closed
+====== Starting TC001_VerifyAddToCart ======
+clicked on:- Women navigation menu.
+clicked on:- Dresses category submenu.
+Printed Chiffon Dress has been selected
+====== Finished TC001_VerifyAddToCart ======
+browser closed
+====== Starting TC001_VerifyAddToCart ======
+clicked on:- Women navigation menu.
+clicked on:- Dresses category submenu.
+Printed Chiffon Dress has been selected
+====== Finished TC001_VerifyAddToCart ======
+browser closed
+====== Starting TC002_VerifyRegistration ======
+browser closed
+====== Starting TC002_VerifyRegistration ======
+browser closed
+====== Starting TC002_VerifyRegistration ======
+browser closed
+====== Starting TC001_VerifyLoginWithInvalidCredentials ======
+====== Starting TC001_VerifyLoginWithInvalidCredentials ======
+====== Starting TC001_VerifyLoginWithInvalidCredentials ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (26dc6506dc6402a755e549b571daa8f8)] -> class name: login]
+entered email address is :- test@gmail.com and object is :-[[ChromeDriver: chrome on MAC (26dc6506dc6402a755e549b571daa8f8)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (26dc6506dc6402a755e549b571daa8f8)] -> id: passwd]
+clicked on submit button and object is :-[[ChromeDriver: chrome on MAC (26dc6506dc6402a755e549b571daa8f8)] -> css selector: #SubmitLogin]
+error message is :- Authentication failed.
+====== Finished TC001_VerifyLoginWithInvalidCredentials ======
+====== Starting TC001_VerifyLoginWithInvalidCredentials ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (ebcd7eb30bd7768e24d52cdba9ce12f0)] -> class name: login]
+entered email address is :- test@gmail.com and object is :-[[ChromeDriver: chrome on MAC (ebcd7eb30bd7768e24d52cdba9ce12f0)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (ebcd7eb30bd7768e24d52cdba9ce12f0)] -> id: passwd]
+clicked on submit button and object is :-[[ChromeDriver: chrome on MAC (ebcd7eb30bd7768e24d52cdba9ce12f0)] -> css selector: #SubmitLogin]
+error message is :- Authentication failed.
+====== Finished TC001_VerifyLoginWithInvalidCredentials ======
+====== Starting TC001_VerifyLoginWithInvalidCredentials ======
+clicked on sign in and object is :- [[ChromeDriver: chrome on MAC (ca3e56ebffb10403fbae0143bea5aa00)] -> class name: login]
+entered email address is :- test@gmail.com and object is :-[[ChromeDriver: chrome on MAC (ca3e56ebffb10403fbae0143bea5aa00)] -> id: email]
+entered password is :- password and object is :- [[ChromeDriver: chrome on MAC (ca3e56ebffb10403fbae0143bea5aa00)] -> id: passwd]
+clicked on submit button and object is :-[[ChromeDriver: chrome on MAC (ca3e56ebffb10403fbae0143bea5aa00)] -> css selector: #SubmitLogin]
+error message is :- Authentication failed.
+====== Finished TC001_VerifyLoginWithInvalidCredentials ======
+====== Starting TC001_VerifyAddToCart ======
+clicked on Women navigation menu.
+clicked on Dresses category submenu.
+product Printed Chiffon Dress has been selected
+====== Finished TC001_VerifyAddToCart ======
+browser closed
+====== Starting TC001_VerifyAddToCart ======
+clicked on Women navigation menu.
+clicked on Dresses category submenu.
+product Printed Chiffon Dress has been selected
+====== Finished TC001_VerifyAddToCart ======
+browser closed
+====== Starting TC001_VerifyAddToCart ======
+clicked on Women navigation menu.
+clicked on Dresses category submenu.
+product Printed Chiffon Dress has been selected
+====== Finished TC001_VerifyAddToCart ======
+browser closed
+====== Starting TC001_VerifyAddToCart ======
+clicked on Women navigation menu.
+clicked on Dresses category submenu.
+product Printed Chiffon Dress has been selected
+====== Finished TC001_VerifyAddToCart ======
+browser closed
